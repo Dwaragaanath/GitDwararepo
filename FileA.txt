@@ -1,0 +1,3 @@
+this is plain text file 
+New line added
+make a change
